@@ -1,6 +1,6 @@
 ####################################################################################
-# Created by:  Humphrey, Ashton
-# CruzID       athumphr
+# Created by:  Null, Sheep
+# CruzID       SheepNull
 #              13 November 2018
 #
 # Assignment:  Lab 4: ASCII Decimal to 2SC
