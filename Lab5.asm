@@ -1,6 +1,6 @@
 ####################################################################################
-# Created by:  Humphrey, Ashton
-# CruzID       athumphr
+# Created by:  Null, Sheep
+# CruzID       SheepNull
 #              30 November 2018
 #
 # Assignment:  Lab 5: Subroutines
