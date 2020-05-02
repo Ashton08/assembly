@@ -1,6 +1,6 @@
 ####################################################################################
-# Created by:  Humphrey, Ashton
-# CruzID       athumphr
+# Created by:  Null, Sheep
+# CruzID       SheepNull
 #              7 August 2018
 #
 # Assignment:  Lab 3: Looping in MIPS
